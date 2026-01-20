@@ -1,5 +1,5 @@
-- Hi, I’m Ty Huynh Tran
-- 🌱 I’m currently a student at University of Science - VNUHCM
+- Hi, I’m Ty Huynh Tran 🌱
+- I’m currently a student at University of Science - VNUHCM 
 - Connect with me: huynhtranty@gmail.com
 
 <!---
